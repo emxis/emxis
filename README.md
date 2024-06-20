@@ -4,6 +4,10 @@
   
 
 ### <div align="center">Hi, I'm Emir. I'm a junior front-end developer.</div>  
+
+<p>
+  Hi, I am Emir. I am a junior front-end developer and I am trying to improve myself in this field. I was an IT intern at <a href="https://www.linkedin.com/school/the-koc-school/">The Koc School<a/>
+</p>
   
 <br/>  
 
